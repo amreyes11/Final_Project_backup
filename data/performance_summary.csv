@@ -1,0 +1,519 @@
+Year,County,Hospital Ratings,Hospital Ratings Total,Total Number of Adverse Events,Total Number of Cases
+2016,Alameda,As Expected,116,730.0,16051.0
+2016,Alameda,Better,2,20.0,353.0
+2016,Alameda,Worse,7,63.0,792.0
+2016,Amador,As Expected,7,13.0,333.0
+2016,Amador,Worse,1,6.0,62.0
+2016,Butte,As Expected,30,164.0,4125.0
+2016,Butte,Better,2,5.0,628.0
+2016,Butte,Worse,1,31.0,389.0
+2016,Calaveras,As Expected,7,5.0,155.0
+2016,Colusa,As Expected,2,1.0,7.0
+2016,Contra Costa,As Expected,62,456.0,8794.0
+2016,Contra Costa,Better,8,9.0,1451.0
+2016,Contra Costa,Worse,4,63.0,1133.0
+2016,Del Norte,As Expected,7,12.0,321.0
+2016,El Dorado,As Expected,14,40.0,973.0
+2016,Fresno,As Expected,53,539.0,12570.0
+2016,Fresno,Worse,3,205.0,2399.0
+2016,Glenn,As Expected,2,0.0,32.0
+2016,Humboldt,As Expected,21,51.0,1323.0
+2016,Humboldt,Worse,6,30.0,339.0
+2016,Imperial,As Expected,15,59.0,1584.0
+2016,Inyo,As Expected,6,6.0,77.0
+2016,Inyo,Worse,2,6.0,33.0
+2016,Kern,As Expected,66,316.0,8012.0
+2016,Kern,Better,2,5.0,588.0
+2016,Kern,Worse,8,168.0,1478.0
+2016,Kings,As Expected,7,32.0,978.0
+2016,Kings,Better,1,4.0,141.0
+2016,Kings,Worse,1,21.0,441.0
+2016,Lake,As Expected,12,7.0,436.0
+2016,Lassen,As Expected,3,1.0,74.0
+2016,Los Angeles,As Expected,756,4900.0,109065.0
+2016,Los Angeles,Better,25,250.0,8039.0
+2016,Los Angeles,Worse,28,557.0,7000.0
+2016,Madera,As Expected,7,17.0,412.0
+2016,Marin,As Expected,30,134.0,2811.0
+2016,Mariposa,As Expected,3,2.0,33.0
+2016,Mendocino,As Expected,19,29.0,747.0
+2016,Mendocino,Worse,2,5.0,46.0
+2016,Merced,As Expected,11,57.0,1944.0
+2016,Merced,Better,1,0.0,54.0
+2016,Modoc,As Expected,2,1.0,22.0
+2016,Mono,As Expected,4,0.0,27.0
+2016,Monterey,As Expected,36,156.0,3699.0
+2016,Monterey,Worse,3,73.0,611.0
+2016,Napa,As Expected,22,116.0,2199.0
+2016,Nevada,As Expected,14,35.0,953.0
+2016,Orange,As Expected,202,1372.0,30018.0
+2016,Orange,Better,12,197.0,4050.0
+2016,Orange,Worse,5,39.0,541.0
+2016,Placer,As Expected,32,230.0,5689.0
+2016,Placer,Better,1,0.0,305.0
+2016,Placer,Worse,3,81.0,1182.0
+2016,Plumas,As Expected,6,5.0,124.0
+2016,Riverside,As Expected,146,1056.0,24885.0
+2016,Riverside,Better,2,9.0,762.0
+2016,Riverside,Worse,7,96.0,1075.0
+2016,Sacramento,As Expected,85,989.0,20372.0
+2016,Sacramento,Better,2,39.0,779.0
+2016,Sacramento,Worse,4,225.0,1533.0
+2016,San Benito,As Expected,6,14.0,266.0
+2016,San Benito,Worse,2,8.0,32.0
+2016,San Bernardi,As Expected,124,847.0,19591.0
+2016,San Bernardi,Better,9,31.0,2312.0
+2016,San Bernardi,Worse,10,254.0,3168.0
+2016,San Diego,As Expected,162,1829.0,33845.0
+2016,San Diego,Better,4,15.0,1464.0
+2016,San Diego,Worse,6,121.0,2093.0
+2016,San Francisc,As Expected,88,513.0,10637.0
+2016,San Francisc,Better,3,64.0,610.0
+2016,San Francisc,Worse,5,140.0,1530.0
+2016,San Joaquin,As Expected,66,370.0,8507.0
+2016,San Joaquin,Worse,2,27.0,228.0
+2016,San Luis Obi,As Expected,36,111.0,2929.0
+2016,San Luis Obi,Worse,1,4.0,7.0
+2016,San Mateo,As Expected,57,271.0,5818.0
+2016,San Mateo,Better,1,5.0,387.0
+2016,San Mateo,Worse,3,139.0,984.0
+2016,Santa Barbar,As Expected,38,256.0,4589.0
+2016,Santa Barbar,Worse,1,24.0,364.0
+2016,Santa Clara,As Expected,103,988.0,19128.0
+2016,Santa Clara,Worse,6,149.0,1808.0
+2016,Santa Cruz,As Expected,20,66.0,2434.0
+2016,Shasta,As Expected,21,102.0,2412.0
+2016,Shasta,Worse,6,143.0,1921.0
+2016,Siskiyou,As Expected,15,15.0,410.0
+2016,Solano,As Expected,41,250.0,5488.0
+2016,Solano,Worse,1,4.0,38.0
+2016,Sonoma,As Expected,54,260.0,4699.0
+2016,Sonoma,Better,1,0.0,248.0
+2016,Sonoma,Worse,2,6.0,46.0
+2016,Stanislaus,As Expected,40,385.0,8279.0
+2016,Stanislaus,Worse,3,50.0,898.0
+2016,Tehama,As Expected,6,10.0,330.0
+2016,Tehama,Worse,2,11.0,61.0
+2016,Trinity,As Expected,4,1.0,66.0
+2016,Tulare,As Expected,25,267.0,5249.0
+2016,Tulare,Worse,2,41.0,642.0
+2016,Tuolumne,As Expected,8,40.0,686.0
+2016,Tuolumne,Worse,1,5.0,24.0
+2016,Ventura,As Expected,66,326.0,8233.0
+2016,Ventura,Worse,5,139.0,993.0
+2016,Yolo,As Expected,14,29.0,754.0
+2016,Yolo,Worse,2,9.0,51.0
+2016,Yuba,As Expected,10,111.0,2455.0
+2016,Yuba,Worse,1,6.0,91.0
+2017,Alameda,As Expected,120,765.0,15350.0
+2017,Alameda,Better,3,26.0,847.0
+2017,Alameda,Worse,7,137.0,1619.0
+2017,Amador,As Expected,8,16.0,423.0
+2017,Butte,As Expected,31,183.0,4562.0
+2017,Butte,Better,2,8.0,640.0
+2017,Calaveras,As Expected,7,3.0,168.0
+2017,Contra Costa,As Expected,76,502.0,11707.0
+2017,Contra Costa,Worse,1,5.0,53.0
+2017,Del Norte,As Expected,7,27.0,361.0
+2017,El Dorado,As Expected,13,29.0,1094.0
+2017,El Dorado,Worse,1,4.0,21.0
+2017,Fresno,As Expected,50,401.0,11470.0
+2017,Fresno,Worse,7,393.0,3392.0
+2017,Glenn,As Expected,2,0.0,18.0
+2017,Humboldt,As Expected,27,72.0,1657.0
+2017,Imperial,As Expected,15,40.0,1223.0
+2017,Imperial,Better,1,2.0,210.0
+2017,Inyo,As Expected,7,4.0,100.0
+2017,Inyo,Worse,1,4.0,22.0
+2017,Kern,As Expected,71,384.0,9627.0
+2017,Kern,Worse,4,99.0,985.0
+2017,Kings,As Expected,9,56.0,1511.0
+2017,Lake,As Expected,10,5.0,376.0
+2017,Lassen,As Expected,4,4.0,70.0
+2017,Los Angeles,As Expected,724,4465.0,103602.0
+2017,Los Angeles,Better,58,534.0,17308.0
+2017,Los Angeles,Worse,20,426.0,5248.0
+2017,Madera,As Expected,6,7.0,401.0
+2017,Madera,Worse,1,7.0,37.0
+2017,Marin,As Expected,28,114.0,2683.0
+2017,Marin,Worse,1,15.0,142.0
+2017,Mariposa,As Expected,2,1.0,39.0
+2017,Mendocino,As Expected,23,47.0,785.0
+2017,Merced,As Expected,11,18.0,954.0
+2017,Merced,Better,3,7.0,1060.0
+2017,Modoc,As Expected,4,1.0,40.0
+2017,Mono,As Expected,3,0.0,29.0
+2017,Monterey,As Expected,34,202.0,4204.0
+2017,Monterey,Worse,2,16.0,270.0
+2017,Napa,As Expected,22,125.0,2312.0
+2017,Nevada,As Expected,14,32.0,889.0
+2017,Orange,As Expected,203,1356.0,27972.0
+2017,Orange,Better,17,285.0,6862.0
+2017,Orange,Worse,5,41.0,576.0
+2017,Placer,As Expected,36,277.0,7296.0
+2017,Placer,Better,1,22.0,521.0
+2017,Plumas,As Expected,9,3.0,94.0
+2017,Riverside,As Expected,143,1024.0,24196.0
+2017,Riverside,Better,5,18.0,1227.0
+2017,Riverside,Worse,6,86.0,1270.0
+2017,Sacramento,As Expected,84,1007.0,21396.0
+2017,Sacramento,Better,2,41.0,699.0
+2017,Sacramento,Worse,3,251.0,1630.0
+2017,San Benito,As Expected,5,7.0,216.0
+2017,San Benito,Worse,2,13.0,63.0
+2017,San Bernardi,As Expected,130,933.0,23035.0
+2017,San Bernardi,Better,9,111.0,2699.0
+2017,San Bernardi,Worse,3,73.0,437.0
+2017,San Diego,As Expected,147,1464.0,29395.0
+2017,San Diego,Better,19,208.0,6939.0
+2017,San Diego,Worse,3,90.0,1749.0
+2017,San Francisc,As Expected,88,620.0,11668.0
+2017,San Francisc,Better,2,55.0,570.0
+2017,San Francisc,Worse,6,90.0,910.0
+2017,San Joaquin,As Expected,66,303.0,9046.0
+2017,San Joaquin,Worse,1,1.0,9.0
+2017,San Luis Obi,As Expected,38,115.0,2748.0
+2017,San Luis Obi,Worse,1,6.0,79.0
+2017,San Mateo,As Expected,51,299.0,5600.0
+2017,San Mateo,Better,9,47.0,1845.0
+2017,San Mateo,Worse,2,47.0,446.0
+2017,Santa Barbar,As Expected,35,256.0,4802.0
+2017,Santa Barbar,Worse,3,39.0,286.0
+2017,Santa Clara,As Expected,102,920.0,20470.0
+2017,Santa Clara,Better,3,73.0,814.0
+2017,Santa Clara,Worse,4,164.0,1088.0
+2017,Santa Cruz,As Expected,20,93.0,2687.0
+2017,Shasta,As Expected,21,137.0,2934.0
+2017,Shasta,Worse,3,125.0,1259.0
+2017,Siskiyou,As Expected,12,12.0,361.0
+2017,Siskiyou,Worse,1,2.0,5.0
+2017,Solano,As Expected,41,272.0,5515.0
+2017,Sonoma,As Expected,54,165.0,4648.0
+2017,Sonoma,Better,2,23.0,487.0
+2017,Sonoma,Worse,1,5.0,8.0
+2017,Stanislaus,As Expected,40,344.0,8438.0
+2017,Stanislaus,Better,2,28.0,800.0
+2017,Stanislaus,Worse,2,35.0,444.0
+2017,Tehama,As Expected,7,15.0,342.0
+2017,Trinity,As Expected,5,1.0,70.0
+2017,Tulare,As Expected,24,217.0,4671.0
+2017,Tulare,Worse,4,97.0,1345.0
+2017,Tuolumne,As Expected,9,32.0,586.0
+2017,Ventura,As Expected,59,308.0,7561.0
+2017,Ventura,Better,2,26.0,792.0
+2017,Ventura,Worse,5,119.0,911.0
+2017,Yolo,As Expected,14,26.0,823.0
+2017,Yuba,As Expected,11,107.0,2263.0
+2018,Alameda,As Expected,120,711.0,14793.0
+2018,Alameda,Better,8,133.0,2717.0
+2018,Alameda,Worse,1,22.0,519.0
+2018,Amador,As Expected,8,24.0,501.0
+2018,Butte,As Expected,33,238.0,4984.0
+2018,Butte,Better,3,3.0,467.0
+2018,Calaveras,As Expected,6,6.0,140.0
+2018,Colusa,As Expected,4,0.0,87.0
+2018,Contra Costa,As Expected,74,541.0,11263.0
+2018,Contra Costa,Better,1,6.0,518.0
+2018,Del Norte,As Expected,6,11.0,198.0
+2018,Del Norte,Better,1,0.0,100.0
+2018,El Dorado,As Expected,14,39.0,1044.0
+2018,Fresno,As Expected,54,518.0,13330.0
+2018,Fresno,Worse,3,176.0,1452.0
+2018,Glenn,As Expected,2,1.0,36.0
+2018,Humboldt,As Expected,23,72.0,1563.0
+2018,Humboldt,Better,2,5.0,136.0
+2018,Imperial,As Expected,14,59.0,1648.0
+2018,Imperial,Worse,2,16.0,49.0
+2018,Inyo,As Expected,9,6.0,127.0
+2018,Kern,As Expected,70,458.0,9947.0
+2018,Kern,Better,2,6.0,625.0
+2018,Kern,Worse,4,31.0,177.0
+2018,Kings,As Expected,8,58.0,1431.0
+2018,Lake,As Expected,13,6.0,461.0
+2018,Lassen,As Expected,4,3.0,83.0
+2018,Los Angeles,As Expected,698,4890.0,104930.0
+2018,Los Angeles,Better,75,732.0,22131.0
+2018,Los Angeles,Worse,14,269.0,3034.0
+2018,Madera,As Expected,7,10.0,446.0
+2018,Marin,As Expected,26,95.0,2426.0
+2018,Marin,Better,3,2.0,350.0
+2018,Mariposa,As Expected,2,1.0,45.0
+2018,Mendocino,As Expected,19,33.0,787.0
+2018,Merced,As Expected,12,41.0,1270.0
+2018,Merced,Better,2,10.0,1046.0
+2018,Modoc,As Expected,3,2.0,30.0
+2018,Mono,As Expected,4,0.0,41.0
+2018,Monterey,As Expected,32,192.0,4549.0
+2018,Monterey,Better,1,5.0,202.0
+2018,Monterey,Worse,2,10.0,55.0
+2018,Napa,As Expected,20,98.0,2071.0
+2018,Napa,Better,1,3.0,241.0
+2018,Nevada,As Expected,14,34.0,992.0
+2018,Orange,As Expected,200,1285.0,28874.0
+2018,Orange,Better,17,368.0,6181.0
+2018,Orange,Worse,7,144.0,1095.0
+2018,Placer,As Expected,31,221.0,5730.0
+2018,Placer,Better,5,39.0,2215.0
+2018,Plumas,As Expected,7,1.0,97.0
+2018,Riverside,As Expected,136,1055.0,21878.0
+2018,Riverside,Better,11,87.0,4887.0
+2018,Riverside,Worse,4,104.0,1436.0
+2018,Sacramento,As Expected,82,886.0,19221.0
+2018,Sacramento,Better,9,209.0,3602.0
+2018,Sacramento,Worse,2,207.0,1384.0
+2018,San Benito,As Expected,8,14.0,247.0
+2018,San Bernardi,As Expected,124,948.0,22391.0
+2018,San Bernardi,Better,15,143.0,4533.0
+2018,San Bernardi,Worse,2,14.0,251.0
+2018,San Diego,As Expected,143,1525.0,29917.0
+2018,San Diego,Better,20,301.0,8251.0
+2018,San Diego,Worse,6,126.0,1777.0
+2018,San Francisc,As Expected,95,773.0,11948.0
+2018,San Francisc,Better,1,6.0,335.0
+2018,San Francisc,Worse,2,63.0,1180.0
+2018,San Joaquin,As Expected,67,378.0,9821.0
+2018,San Joaquin,Better,1,4.0,143.0
+2018,San Luis Obi,As Expected,40,125.0,3075.0
+2018,San Mateo,As Expected,59,356.0,6779.0
+2018,San Mateo,Better,3,30.0,788.0
+2018,San Mateo,Worse,1,29.0,280.0
+2018,Santa Barbar,As Expected,37,284.0,4993.0
+2018,Santa Clara,As Expected,103,878.0,19623.0
+2018,Santa Clara,Better,8,148.0,2758.0
+2018,Santa Cruz,As Expected,17,83.0,2312.0
+2018,Santa Cruz,Better,1,2.0,175.0
+2018,Shasta,As Expected,24,155.0,3417.0
+2018,Shasta,Worse,3,116.0,785.0
+2018,Siskiyou,As Expected,12,11.0,332.0
+2018,Siskiyou,Worse,1,3.0,38.0
+2018,Solano,As Expected,39,256.0,5069.0
+2018,Solano,Worse,3,33.0,483.0
+2018,Sonoma,As Expected,53,251.0,4786.0
+2018,Sonoma,Better,2,5.0,515.0
+2018,Stanislaus,As Expected,41,375.0,8538.0
+2018,Stanislaus,Better,3,37.0,768.0
+2018,Stanislaus,Worse,1,47.0,509.0
+2018,Tehama,As Expected,7,10.0,417.0
+2018,Trinity,As Expected,3,1.0,66.0
+2018,Tulare,As Expected,20,271.0,5332.0
+2018,Tulare,Better,2,10.0,549.0
+2018,Tuolumne,As Expected,7,23.0,570.0
+2018,Tuolumne,Better,1,0.0,70.0
+2018,Ventura,As Expected,60,316.0,7498.0
+2018,Ventura,Better,5,43.0,1488.0
+2018,Ventura,Worse,2,32.0,218.0
+2018,Yolo,As Expected,15,23.0,781.0
+2018,Yuba,As Expected,10,96.0,2130.0
+2018,Yuba,Worse,1,23.0,369.0
+2019,Alameda,As Expected,125,702.0,14695.0
+2019,Alameda,Better,5,67.0,1812.0
+2019,Alameda,Worse,9,155.0,2592.0
+2019,Amador,As Expected,7,11.0,343.0
+2019,Amador,Worse,1,3.0,50.0
+2019,Butte,As Expected,25,170.0,4689.0
+2019,Butte,Worse,2,47.0,426.0
+2019,Calaveras,As Expected,7,3.0,159.0
+2019,Colusa,As Expected,6,4.0,143.0
+2019,Contra Costa,As Expected,70,328.0,9636.0
+2019,Contra Costa,Better,4,18.0,1235.0
+2019,Contra Costa,Worse,4,165.0,1372.0
+2019,Del Norte,As Expected,7,22.0,401.0
+2019,El Dorado,As Expected,16,28.0,991.0
+2019,El Dorado,Worse,1,4.0,72.0
+2019,Fresno,As Expected,57,461.0,11318.0
+2019,Fresno,Worse,6,299.0,4275.0
+2019,Glenn,As Expected,2,1.0,32.0
+2019,Humboldt,As Expected,25,86.0,1668.0
+2019,Imperial,As Expected,15,59.0,1665.0
+2019,Inyo,As Expected,8,6.0,124.0
+2019,Kern,As Expected,75,434.0,10151.0
+2019,Kern,Worse,3,36.0,855.0
+2019,Kings,As Expected,10,49.0,1486.0
+2019,Lake,As Expected,12,6.0,413.0
+2019,Lake,Worse,1,5.0,89.0
+2019,Lassen,As Expected,4,2.0,63.0
+2019,Lassen,Worse,1,7.0,42.0
+2019,Los Angeles,As Expected,734,4673.0,105471.0
+2019,Los Angeles,Better,47,364.0,17841.0
+2019,Los Angeles,Worse,38,826.0,9898.0
+2019,Madera,As Expected,7,9.0,412.0
+2019,Marin,As Expected,31,122.0,2874.0
+2019,Mariposa,As Expected,4,1.0,65.0
+2019,Mendocino,As Expected,20,24.0,779.0
+2019,Mendocino,Worse,1,2.0,10.0
+2019,Merced,As Expected,15,44.0,2057.0
+2019,Merced,Better,1,0.0,75.0
+2019,Modoc,As Expected,5,2.0,37.0
+2019,Mono,As Expected,4,0.0,31.0
+2019,Monterey,As Expected,35,180.0,4241.0
+2019,Monterey,Worse,4,63.0,1026.0
+2019,Napa,As Expected,23,91.0,1804.0
+2019,Napa,Better,1,5.0,238.0
+2019,Nevada,As Expected,10,24.0,826.0
+2019,Nevada,Better,1,0.0,100.0
+2019,Orange,As Expected,218,1314.0,30478.0
+2019,Orange,Better,16,268.0,5258.0
+2019,Orange,Worse,12,154.0,1378.0
+2019,Placer,As Expected,38,220.0,7206.0
+2019,Placer,Better,1,15.0,488.0
+2019,Placer,Worse,1,15.0,358.0
+2019,Plumas,As Expected,6,3.0,88.0
+2019,Riverside,As Expected,165,1061.0,27659.0
+2019,Riverside,Better,4,124.0,2171.0
+2019,Riverside,Worse,1,3.0,20.0
+2019,Sacramento,As Expected,90,1017.0,19979.0
+2019,Sacramento,Better,3,50.0,2061.0
+2019,Sacramento,Worse,7,257.0,3151.0
+2019,San Benito,As Expected,5,2.0,138.0
+2019,San Benito,Worse,2,6.0,101.0
+2019,San Bernardi,As Expected,132,917.0,22315.0
+2019,San Bernardi,Better,12,51.0,3461.0
+2019,San Bernardi,Worse,6,261.0,2530.0
+2019,San Diego,As Expected,167,1560.0,35032.0
+2019,San Diego,Better,9,95.0,2929.0
+2019,San Diego,Worse,8,276.0,2477.0
+2019,San Francisc,As Expected,103,608.0,10330.0
+2019,San Francisc,Better,2,18.0,749.0
+2019,San Francisc,Worse,6,116.0,1866.0
+2019,San Joaquin,As Expected,59,242.0,7818.0
+2019,San Joaquin,Better,5,63.0,2180.0
+2019,San Joaquin,Worse,2,23.0,546.0
+2019,San Luis Obi,As Expected,40,111.0,2752.0
+2019,San Luis Obi,Worse,1,19.0,271.0
+2019,San Mateo,As Expected,61,237.0,6381.0
+2019,San Mateo,Worse,5,177.0,1425.0
+2019,Santa Barbar,As Expected,34,233.0,4453.0
+2019,Santa Barbar,Worse,4,67.0,813.0
+2019,Santa Clara,As Expected,120,952.0,21007.0
+2019,Santa Clara,Better,1,9.0,572.0
+2019,Santa Clara,Worse,2,64.0,1369.0
+2019,Santa Cruz,As Expected,18,103.0,2536.0
+2019,Shasta,As Expected,25,118.0,2930.0
+2019,Shasta,Better,1,9.0,326.0
+2019,Shasta,Worse,3,101.0,1309.0
+2019,Siskiyou,As Expected,13,11.0,412.0
+2019,Solano,As Expected,40,207.0,5058.0
+2019,Solano,Better,1,5.0,215.0
+2019,Solano,Worse,3,46.0,414.0
+2019,Sonoma,As Expected,49,213.0,4234.0
+2019,Sonoma,Better,1,4.0,338.0
+2019,Sonoma,Worse,4,66.0,1038.0
+2019,Stanislaus,As Expected,42,364.0,8083.0
+2019,Stanislaus,Better,3,27.0,1186.0
+2019,Stanislaus,Worse,2,79.0,1063.0
+2019,Tehama,As Expected,8,20.0,465.0
+2019,Trinity,As Expected,3,2.0,43.0
+2019,Tulare,As Expected,23,287.0,6196.0
+2019,Tulare,Worse,1,5.0,62.0
+2019,Tuolumne,As Expected,9,31.0,710.0
+2019,Ventura,As Expected,67,385.0,8864.0
+2019,Ventura,Better,2,18.0,313.0
+2019,Ventura,Worse,2,31.0,422.0
+2019,Yolo,As Expected,14,25.0,805.0
+2019,Yuba,As Expected,12,118.0,2507.0
+2020,Alameda,As Expected,118,816.0,16526.0
+2020,Alameda,Better,5,16.0,960.0
+2020,Alameda,Worse,7,112.0,1063.0
+2020,Amador,As Expected,6,15.0,397.0
+2020,Butte,As Expected,25,178.0,4156.0
+2020,Butte,Better,2,30.0,1387.0
+2020,Butte,Worse,2,63.0,449.0
+2020,Calaveras,As Expected,6,4.0,201.0
+2020,Colusa,As Expected,4,4.0,114.0
+2020,Contra Costa,As Expected,79,603.0,11975.0
+2020,Contra Costa,Better,1,4.0,237.0
+2020,Contra Costa,Worse,1,7.0,129.0
+2020,Del Norte,As Expected,7,16.0,269.0
+2020,El Dorado,As Expected,13,32.0,999.0
+2020,El Dorado,Better,1,1.0,99.0
+2020,Fresno,As Expected,48,311.0,7544.0
+2020,Fresno,Worse,11,466.0,7445.0
+2020,Glenn,As Expected,2,0.0,13.0
+2020,Humboldt,As Expected,24,61.0,1652.0
+2020,Humboldt,Worse,1,3.0,20.0
+2020,Imperial,As Expected,14,54.0,1068.0
+2020,Imperial,Worse,1,31.0,288.0
+2020,Inyo,As Expected,7,3.0,130.0
+2020,Kern,As Expected,74,489.0,9960.0
+2020,Kern,Worse,4,65.0,1010.0
+2020,Kings,As Expected,8,71.0,1381.0
+2020,Kings,Worse,1,4.0,83.0
+2020,Lake,As Expected,12,10.0,480.0
+2020,Lassen,As Expected,7,4.0,104.0
+2020,Los Angeles,As Expected,713,5409.0,102469.0
+2020,Los Angeles,Better,40,644.0,14033.0
+2020,Los Angeles,Worse,35,945.0,10351.0
+2020,Madera,As Expected,7,17.0,499.0
+2020,Marin,As Expected,31,134.0,2788.0
+2020,Mariposa,As Expected,4,1.0,71.0
+2020,Mendocino,As Expected,19,28.0,934.0
+2020,Merced,As Expected,18,69.0,2237.0
+2020,Modoc,As Expected,2,1.0,44.0
+2020,Mono,As Expected,4,1.0,39.0
+2020,Monterey,As Expected,31,135.0,3503.0
+2020,Monterey,Worse,5,134.0,1567.0
+2020,Napa,As Expected,21,66.0,1598.0
+2020,Napa,Worse,1,7.0,18.0
+2020,Nevada,As Expected,14,31.0,955.0
+2020,Orange,As Expected,222,1510.0,28583.0
+2020,Orange,Better,18,198.0,6593.0
+2020,Orange,Worse,6,176.0,1596.0
+2020,Placer,As Expected,37,256.0,7148.0
+2020,Placer,Better,1,17.0,481.0
+2020,Placer,Worse,3,73.0,1045.0
+2020,Plumas,As Expected,9,0.0,75.0
+2020,Riverside,As Expected,161,1112.0,24988.0
+2020,Riverside,Better,6,162.0,2955.0
+2020,Riverside,Worse,5,108.0,1175.0
+2020,Sacramento,As Expected,96,1230.0,23229.0
+2020,Sacramento,Better,3,56.0,837.0
+2020,Sacramento,Worse,1,15.0,220.0
+2020,San Benito,As Expected,8,10.0,187.0
+2020,San Bernardi,As Expected,133,1024.0,21166.0
+2020,San Bernardi,Better,5,54.0,1853.0
+2020,San Bernardi,Worse,12,317.0,4118.0
+2020,San Diego,As Expected,148,1228.0,27247.0
+2020,San Diego,Better,15,163.0,5791.0
+2020,San Diego,Worse,17,617.0,5862.0
+2020,San Francisc,As Expected,88,535.0,10718.0
+2020,San Francisc,Better,6,87.0,1185.0
+2020,San Francisc,Worse,4,120.0,849.0
+2020,San Joaquin,As Expected,60,323.0,7840.0
+2020,San Joaquin,Better,3,39.0,1839.0
+2020,San Joaquin,Worse,5,58.0,674.0
+2020,San Luis Obi,As Expected,38,144.0,3039.0
+2020,San Luis Obi,Better,1,5.0,54.0
+2020,San Mateo,As Expected,61,319.0,6087.0
+2020,San Mateo,Better,1,2.0,269.0
+2020,San Mateo,Worse,5,132.0,1045.0
+2020,Santa Barbar,As Expected,38,293.0,4743.0
+2020,Santa Barbar,Better,1,9.0,274.0
+2020,Santa Barbar,Worse,1,8.0,72.0
+2020,Santa Clara,As Expected,112,844.0,18547.0
+2020,Santa Clara,Better,10,176.0,3936.0
+2020,Santa Clara,Worse,1,11.0,50.0
+2020,Santa Cruz,As Expected,19,94.0,2167.0
+2020,Santa Cruz,Better,1,0.0,207.0
+2020,Santa Cruz,Worse,1,3.0,3.0
+2020,Shasta,As Expected,20,141.0,2814.0
+2020,Shasta,Better,1,3.0,238.0
+2020,Shasta,Worse,4,185.0,1703.0
+2020,Siskiyou,As Expected,13,13.0,374.0
+2020,Solano,As Expected,38,241.0,4818.0
+2020,Solano,Worse,6,89.0,982.0
+2020,Sonoma,As Expected,50,209.0,4507.0
+2020,Sonoma,Worse,4,100.0,1107.0
+2020,Stanislaus,As Expected,38,339.0,7276.0
+2020,Stanislaus,Better,2,97.0,864.0
+2020,Stanislaus,Worse,6,157.0,2452.0
+2020,Tehama,As Expected,8,18.0,494.0
+2020,Trinity,As Expected,3,2.0,22.0
+2020,Tulare,As Expected,25,168.0,4228.0
+2020,Tulare,Worse,3,122.0,1631.0
+2020,Tuolumne,As Expected,6,14.0,402.0
+2020,Tuolumne,Worse,2,33.0,396.0
+2020,Ventura,As Expected,67,352.0,8429.0
+2020,Ventura,Better,5,57.0,1647.0
+2020,Yolo,As Expected,14,31.0,773.0
+2020,Yolo,Worse,1,3.0,55.0
+2020,Yuba,As Expected,12,98.0,2547.0
